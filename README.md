@@ -3,8 +3,7 @@ Me chamo Misael, tenho 20 anos. Sou estudante de Análise e Desenvolvimento de S
 
 - 🔭 Hoje trabalho com inteligência de dados. 
 - 🌱 Estudando Python, Power BI, SQL e Java.
-- ✉️ Contate-me pelo e-mail: misaelalexandrino02@gmail.com
-
+  
 ### Tecnologias que eu uso:
 <div style = "display: inline_block"><br> 
 <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
