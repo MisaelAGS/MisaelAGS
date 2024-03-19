@@ -34,14 +34,16 @@
 ## Minhas estatísticas
 <a>
   <a href="https://github.com/MisaelAGS">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MisaelAGS&theme=radical&border=7F3FBF&background=0D1117" alt="Estatísticas de streak do GitHub de Misael Alexandrino" height="192px" width="49.5%"/></a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MisaelAGS&theme=radical&border=7F3FBF&background=0D1117" alt="Estatísticas de streak do GitHub de Misael Alexandrino" height="192px" width="49.5%"/></a></a>
   <a>
   <a href="https://github.com/MisaelAGS">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MisaelAGS&theme=radical" alt="Contribuição do GitHub de Misael Alexandrino" height="192px" width="49.5%"/></a>
   </a>
+<br><br>
 <a> 
     <a href="https://github.com/MisaelAGS"><img alt="Estatísticas do GitHub de Misael Alexandrino" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MisaelAGS&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/MisaelAGS"><img alt="Principais Linguagens de Misael Alexandrino" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MisaelAGS&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/><br>
 </a>
 
 ![Gráfico de Atividade de Misael Alexandrino](https://github-readme-activity-graph.vercel.app/graph?username=MisaelAGS&custom_title=Atividade%20do%20GitHub%20de%20Misael%20Alexandrino&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
