@@ -10,7 +10,7 @@
  <img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRhYzRmeTJkeW50a2JpNThyenhidHBpcndkYjR5MDYyM3djaXhucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF de programação" />
   
   📚 &emsp; Estudante de Análise e Desenvolvimento de Sistemas no [Centro Universitário Newton Paiva](https://newtonpaiva.br/). <br/><br/>
- 👨‍💻 &emsp; Como estagiário na [Sólides Tecnologia](https://solides.com.br/), tenho a oportunidade de mergulhar em diferentes aspectos da análise de dados, como construção de dashboards, análises profundas, modelagem dos dados, geração de insights e entendimento das métricas e dos KPIs. 📈 <br/><br/>
+ 👨‍💻 &emsp; Estagiário na [Sólides Tecnologia](https://solides.com.br/), onde tenho a oportunidade de mergulhar em diferentes aspectos da análise de dados, como construção de dashboards, análises profundas, modelagem dos dados, geração de insights e entendimento das métricas e dos KPIs. 📈 <br/><br/>
  🚀 &emsp; Além disso, tenho um entusiasmo particular por Python 🐍 e suas bibliotecas poderosas como Pandas e NumPy. Adoro explorar Inteligência Artificial, Bancos de Dados 🎲 e soluções em nuvem. ☁️ <br/><br/>
  📧 &emsp; Vamos trocar ideias ou tirar dúvidas? Me chame no [LinkedIn](https://www.linkedin.com/in/misael-alexandrino)!
 </p>
