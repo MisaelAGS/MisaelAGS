@@ -11,7 +11,6 @@
   
   📚 &emsp; Estudante de Análise e Desenvolvimento de Sistemas no [Centro Universitário Newton Paiva](https://newtonpaiva.br/). <br/><br/>
  👨‍💻 &emsp; Assistente de Dados na [Sólides Tecnologia](https://solides.com.br/), onde tenho a oportunidade de mergulhar em diferentes aspectos da análise de dados, como construção de dashboards, análises profundas, modelagem dos dados, geração de insights e entendimento das métricas e dos KPIs. 📈 <br/><br/>
- 🚀 &emsp; Além disso, tenho um entusiasmo particular por Python 🐍 e suas bibliotecas poderosas como Pandas e NumPy. Adoro explorar Inteligência Artificial, Bancos de Dados 🎲 e soluções em nuvem. ☁️ <br/><br/>
  📧 &emsp; Vamos trocar ideias ou tirar dúvidas? Me chame no [LinkedIn](https://www.linkedin.com/in/misael-alexandrino)!
 </p>
 
@@ -23,8 +22,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=F37626)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&labelColor=black&logo=powerbi&logoColor=F2C811)
