@@ -1,46 +1,114 @@
-<!-- Seu nome e saudação -->
-<h1 align="center">
-  Olá, eu sou Misael!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
-</h1><br>
+# 👩🏻‍💻 Misael Alexandrino
 
-## Sobre Mim
+**`Analista de Dados`**
+
+Me chamo Misael Alexandrino, tenho 22 anos e sou natural do Belo Horizonte, Minas Gerais. Sou graduado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Newton Paiva. Além disso, atuo como Analista de Dados na Sólides Tecnologia. 
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+/>
+<img 
+    align="left" 
+    alt="Numpy" 
+    title="Numpy"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Jupyter" 
+    title="Jupyter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Streamlit"
+    title="Streamlit" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Selenium"
+    title="Selenium" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="AWS"
+    title="AWS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
 
 <p>
- <img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRhYzRmeTJkeW50a2JpNThyenhidHBpcndkYjR5MDYyM3djaXhucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF de programação" />
-  
-  📚 &emsp; Estudante de Análise e Desenvolvimento de Sistemas no [Centro Universitário Newton Paiva](https://newtonpaiva.br/). <br/><br/>
- 👨‍💻 &emsp; Assistente de Dados na [Sólides Tecnologia](https://solides.com.br/), onde tenho a oportunidade de mergulhar em diferentes aspectos da análise de dados, como construção de dashboards, análises profundas, modelagem dos dados, geração de insights e entendimento das métricas e dos KPIs. 📈 <br/><br/>
- 📧 &emsp; Vamos trocar ideias ou tirar dúvidas? Me chame no [LinkedIn](https://www.linkedin.com/in/misael-alexandrino)!
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=MisaelAGS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisaelAGS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
-
-<br/>
-<br/>
-
-
-## Costumo Trabalhar Com
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=F37626)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&labelColor=black&logo=powerbi&logoColor=F2C811)
-
-<br/>
-
-## Minhas estatísticas
-<a>
-  <a href="https://github.com/MisaelAGS">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MisaelAGS&theme=radical&border=7F3FBF&background=0D1117" alt="Estatísticas de streak do GitHub de Misael Alexandrino" height="192px" width="49.5%"/></a></a>
-  <a>
-  <a href="https://github.com/MisaelAGS">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MisaelAGS&theme=radical" alt="Contribuição do GitHub de Misael Alexandrino" height="192px" width="49.5%"/></a>
-  </a>
-<br><br>
-<a> 
-    <a href="https://github.com/MisaelAGS"><img alt="Estatísticas do GitHub de Misael Alexandrino" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MisaelAGS&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/MisaelAGS"><img alt="Principais Linguagens de Misael Alexandrino" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MisaelAGS&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/><br>
-</a>
-
-![Gráfico de Atividade de Misael Alexandrino](https://github-readme-activity-graph.vercel.app/graph?username=MisaelAGS&custom_title=Atividade%20do%20GitHub%20de%20Misael%20Alexandrino&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
