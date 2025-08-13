@@ -6,7 +6,7 @@ Sou apaixonado por programação e estou constantemente em busca de novos desafi
 - 💻 Atualmente, estou focado em aprender as principais biliotecas de python para análise de dados (Pandas, Numpy, Matplotlib, entre outras)
 - 📚 Também estou me preparando para exames de certificação da AWS.
 - 🎓 Sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Newton Paiva.
-- 💼 Atuo como Analista de Dados na [Sólides Tecnologia.](https://www.solides.com.br)
+- 💼 Atuo como Consultor de Dados na [Houer](https://www.houer.com.br/)
 - [👨🏻‍💼 Meu linkedin](https://www.linkedin.com/in/Misael-Alexandrino)
 
 Fique à vontade para explorar meus projetos e entre em contato se quiser colaborar ou trocar ideias! 😊
